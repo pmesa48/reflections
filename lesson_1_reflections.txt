@@ -21,3 +21,7 @@ First you use git log to see all the commits that have been made in that project
 How might using version control make you more confident to make changes that could break something?
 
 Because it leaves a trace of the changes me or other person did over the file, so you could easily go back if something happened.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Collaborating with some Android open source project.
